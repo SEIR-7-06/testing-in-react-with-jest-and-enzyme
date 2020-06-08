@@ -56,7 +56,7 @@ $ npx create-react-app testing-lesson
 
 We can run `$ yarn test` right now and see what happens.
 
-![](./images/initial-tests.png)
+![](./initial-tests.png)
 
 We get some feedback from the app that our tests are all passing!
 
@@ -114,7 +114,7 @@ describe('Hello world component', () => {
 ```
 Right now, our test fails. When we run `yarn test` we get the following error:
 
-![](./images/second-failure.png)
+![](./second-failure.png)
 
 
 Now, using test driven development principles, we will write the minimum code for it to pass. In this example, we just need a component that renders a name in it. Let's implement that:
