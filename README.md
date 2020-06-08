@@ -6,8 +6,9 @@
 * Implement test driven development processes
 * Use Jest and Enzyme to test React applications
 
+
+## Quick Preview (5 min / 0:10)
 * What is automated testing?
-## Quick Review (5 min / 0:10)
 
 <details><summary>Answer</summary>
 When we write code to test our other code!</details>
